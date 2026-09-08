@@ -3,8 +3,6 @@
 from dataclasses import dataclass
 from typing import Any, Optional
 
-RADC_PAYLOAD_BYTES = 3072
-
 
 @dataclass
 class KLD7Frame:
